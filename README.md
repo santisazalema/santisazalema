@@ -21,7 +21,7 @@ Software Developer focused on building robust backend APIs, relational data arch
 
 ### Featured Projects
 
-- **[PHP Mini Blog — Dynamic Publishing Engine](https://github.com/santisazalema/PHP_miniBlog)**  
+- **[PHP Mini Blog — Dynamic Publishing Engine](https://github.com/santisazalema/php-mini-blog)**  
   Lightweight CMS and publishing platform built with native PHP 8+ and JSON flat-file storage, featuring modular templates, input sanitization, and structured content routing.
 
 - **Colombian Business REST API** *(Repository available upon request / Under private maintenance)*  
